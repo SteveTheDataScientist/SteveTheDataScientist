@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SteveTheDataScientist
+- 👀 I’m interested in data science, data security, Python applications in AI and AI interfaces, Tableau data management, and coding languages: SQL, Python, R. In my freetime, I study Russian and laugh at memes :3.
+- 🌱 I’m currently learning SQL, Python, R, Tableau, and more tools.
+- 💞️ I’m looking to collaborate on anything. I like making new friends :D
+- 📫 How to reach me www.linkedin.com/in/steven-a-monserrate
